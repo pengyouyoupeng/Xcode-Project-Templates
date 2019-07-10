@@ -24,9 +24,15 @@
     
 }
 
+#pragma mark - Event
+#pragma mark - Notification
 #pragma mark - Public Methods
 #pragma mark - Private Methods
-#pragma mark - UITableViewDelegate,UITableViewDataSource
-#pragma mark - Setter/Getter
+
+#pragma mark - Delegate
+#pragma mark   UITableViewDelegate,UITableViewDataSource
+
+#pragma mark - Setter
+#pragma mark - Getter
 
 @end

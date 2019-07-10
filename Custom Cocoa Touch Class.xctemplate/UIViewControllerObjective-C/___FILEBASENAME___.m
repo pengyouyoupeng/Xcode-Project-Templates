@@ -29,6 +29,7 @@
 #pragma mark - Public Methods
 #pragma mark - Private Methods
 #pragma mark - Delegate
-#pragma mark - Setter/Getter
+#pragma mark - Setter
+#pragma mark - Getter
 
 @end
