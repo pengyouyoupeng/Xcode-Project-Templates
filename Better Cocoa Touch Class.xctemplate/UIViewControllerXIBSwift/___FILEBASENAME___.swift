@@ -14,13 +14,18 @@ class ___FILEBASENAMEASIDENTIFIER___: ___VARIABLE_cocoaTouchSubclass___ {
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
     }
-
+    
     // MARK: UI
     func initUI() {
         
     }
-    
+
+    // MARK: IBAction
+    // MARK: Event
+    // MARK: Notification
     // MARK: Public Methods
     // MARK: Private Methods
-    // MARK: UITableViewDelegate,UITableViewDataSource
+    // MARK: Delegate
+    // MARK: Setter
+    // MARK: Getter
 }

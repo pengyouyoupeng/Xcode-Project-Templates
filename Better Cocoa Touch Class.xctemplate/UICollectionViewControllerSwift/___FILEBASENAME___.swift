@@ -23,4 +23,6 @@ class ___FILEBASENAMEASIDENTIFIER___: ___VARIABLE_cocoaTouchSubclass___ {
     // MARK: Public Methods
     // MARK: Private Methods
     // MARK: UICollectionViewDelegate,UICollectionViewDataSource
+    // MARK: Setter
+    // MARK: Getter
 }

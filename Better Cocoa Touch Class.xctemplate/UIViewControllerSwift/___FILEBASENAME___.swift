@@ -3,14 +3,14 @@
 import UIKit
 
 class ___FILEBASENAMEASIDENTIFIER___: ___VARIABLE_cocoaTouchSubclass___ {
-    
+
     // MARK: Lifecycle
     override func viewDidLoad() {
         super.viewDidLoad()
-        
+
         initUI()
     }
-    
+
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
     }
@@ -20,8 +20,11 @@ class ___FILEBASENAMEASIDENTIFIER___: ___VARIABLE_cocoaTouchSubclass___ {
         
     }
     
-    // MARK: IBActions
+    // MARK: Event
+    // MARK: Notification
     // MARK: Public Methods
     // MARK: Private Methods
-    // MARK: UICollectionViewDelegate,UICollectionViewDataSource
+    // MARK: Delegate
+    // MARK: Setter
+    // MARK: Getter
 }

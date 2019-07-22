@@ -9,8 +9,13 @@ class ___FILEBASENAMEASIDENTIFIER___: ___VARIABLE_cocoaTouchSubclass___ {
         super.awakeFromNib()
     }
 
+    override func setSelected(_ selected: Bool, animated: Bool) {
+        super.setSelected(selected, animated: animated)
+    }
+    
     // MARK: IBActions
     // MARK: Public Methods
     // MARK: Private Methods
-    // MARK: Setter/Getter
+    // MARK: Setter
+    // MARK: Getter
 }
