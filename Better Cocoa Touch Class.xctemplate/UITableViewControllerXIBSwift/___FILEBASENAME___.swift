@@ -4,7 +4,7 @@ import UIKit
 
 class ___FILEBASENAMEASIDENTIFIER___: ___VARIABLE_cocoaTouchSubclass___ {
         
-    // MARK: Lifecycle
+    // MARK: - Lifecycle
     override func viewDidLoad() {
         super.viewDidLoad()
         
@@ -15,15 +15,27 @@ class ___FILEBASENAMEASIDENTIFIER___: ___VARIABLE_cocoaTouchSubclass___ {
         super.didReceiveMemoryWarning()
     }
     
-    // MARK: UI
+    // MARK: - UI
     func initUI() {
         
     }
     
-    // MARK: IBActions
-    // MARK: Public Methods
-    // MARK: Private Methods
-    // MARK: UITableViewDelegate,UITableViewDataSource
-    // MARK: Setter
-    // MARK: Getter
+    // MARK: - IBActions
+    
+    
+    // MARK: - Public Methods
+    
+    
+    // MARK: - Private Methods
+    
+    
+    // MARK: - UITableViewDelegate,UITableViewDataSource
+    
+    
+    // MARK: - Setter
+    
+    
+    // MARK: - Getter
+    
+    
 }

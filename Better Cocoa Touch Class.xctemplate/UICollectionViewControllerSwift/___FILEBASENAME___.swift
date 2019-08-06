@@ -4,7 +4,7 @@ import UIKit
 
 class ___FILEBASENAMEASIDENTIFIER___: ___VARIABLE_cocoaTouchSubclass___ {
 
-    // MARK: Lifecycle
+    // MARK: - Lifecycle
     override func viewDidLoad() {
         super.viewDidLoad()
 
@@ -20,9 +20,19 @@ class ___FILEBASENAMEASIDENTIFIER___: ___VARIABLE_cocoaTouchSubclass___ {
         
     }
     
-    // MARK: Public Methods
-    // MARK: Private Methods
-    // MARK: UICollectionViewDelegate,UICollectionViewDataSource
-    // MARK: Setter
-    // MARK: Getter
+    // MARK: - Public Methods
+    
+    
+    // MARK: - Private Methods
+    
+    
+    // MARK: - UICollectionViewDelegate,UICollectionViewDataSource
+    
+    
+    // MARK: - Setter
+    
+    
+    // MARK: - Getter
+    
+    
 }

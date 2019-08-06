@@ -4,7 +4,7 @@ import UIKit
 
 class ___FILEBASENAMEASIDENTIFIER___: ___VARIABLE_cocoaTouchSubclass___ {
     
-    // MARK: Lifecycle
+    // MARK: - Lifecycle
     override init(frame: CGRect) {
         super.init(frame: frame)
     }
@@ -17,8 +17,16 @@ class ___FILEBASENAMEASIDENTIFIER___: ___VARIABLE_cocoaTouchSubclass___ {
         fatalError("init(coder:) has not been implemented")
     }
     
-    // MARK: Public Methods
-    // MARK: Private Methods
-    // MARK: Setter
-    // MARK: Getter
+    // MARK: - Public Methods
+    
+    
+    // MARK: - Private Methods
+    
+    
+    // MARK: - Setter
+    
+    
+    // MARK: - Getter
+    
+    
 }
