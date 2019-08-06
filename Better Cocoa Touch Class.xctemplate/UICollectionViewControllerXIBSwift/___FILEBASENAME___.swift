@@ -15,7 +15,7 @@ class ___FILEBASENAMEASIDENTIFIER___: ___VARIABLE_cocoaTouchSubclass___ {
         super.didReceiveMemoryWarning()
     }
     
-    // MARK: UI
+    // MARK: - UI
     func initUI() {
         
     }
