@@ -43,7 +43,7 @@
 
 #### 模板使用
 
-下载并拷贝`Custom Cocoa Touch Class.xctemplate`文件夹至路径`Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Templates/File Templates`下
+下载并拷贝`Custom Cocoa Touch Class.xctemplate`文件夹至路径`Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Templates/File Templates/Source`下
 
 
 [1]: https://github.com/NYTimes/objective-c-style-guide "objective-c-style-guide"
