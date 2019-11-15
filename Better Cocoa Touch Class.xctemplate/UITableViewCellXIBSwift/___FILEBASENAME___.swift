@@ -4,6 +4,8 @@ import UIKit
 
 class ___FILEBASENAMEASIDENTIFIER___: ___VARIABLE_cocoaTouchSubclass___ {
 
+    // MARK: - Properties
+    
     // MARK: - Lifecycle
     override func awakeFromNib() {
         super.awakeFromNib()
